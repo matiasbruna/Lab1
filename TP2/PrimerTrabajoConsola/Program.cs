@@ -27,9 +27,6 @@
             Console.WriteLine(_telefono);
             Console.WriteLine(_email);
             Console.WriteLine(_ciudad);
-
-
-
         }
     }
 }
