@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrimerProyectoLab/1.0.0": {
+        "runtime": {
+          "PrimerProyectoLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimerProyectoLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
