@@ -1,0 +1,15 @@
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/tp3Consola_7.csproj.AssemblyReference.cache
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/tp3Consola_7.GeneratedMSBuildEditorConfig.editorconfig
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/tp3Consola_7.AssemblyInfoInputs.cache
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/tp3Consola_7.AssemblyInfo.cs
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/tp3Consola_7.csproj.CoreCompileInputs.cache
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/bin/Debug/net6.0/tp3Consola_7
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/bin/Debug/net6.0/tp3Consola_7.deps.json
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/bin/Debug/net6.0/tp3Consola_7.runtimeconfig.json
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/bin/Debug/net6.0/tp3Consola_7.dll
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/bin/Debug/net6.0/tp3Consola_7.pdb
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/tp3Consola_7.dll
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/refint/tp3Consola_7.dll
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/tp3Consola_7.pdb
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/tp3Consola_7.genruntimeconfig.cache
+/home/matias/Utn /Lab1/TP3/tp3Consola_7/obj/Debug/net6.0/ref/tp3Consola_7.dll
