@@ -1,16 +1,29 @@
-﻿//----D-B-C----//
-int var1 = 1;
-int var2 = 2;
+﻿
+using System;
 
-var1+= var1;
-var2+= var2;
+namespace tp4Ejercicio9
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //----D-B-C----//
+            int var1 = 1;
+            int var2 = 2;
 
-Console.WriteLine($"variable 1:{var1} ; varible 2: {var2}");
+            var1++;
+            var2++;
 
-//----D-E-F----//
+            Console.WriteLine($"La variable 1: {var1} ; La varible 2: {var2}");
 
-int var3 = 3;
+            //----D-E-F----//
 
-var3-= var3;
+            int var3 = 3;
 
-Console.WriteLine ($"varible 3: {var3}");
+            var3--;
+
+            Console.WriteLine ($"La varible 3: {var3}");
+        }
+                
+    }
+}

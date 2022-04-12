@@ -6,7 +6,7 @@ namespace tp4Ejercicio10
     {
         static void Main(string[] args)
         {
-           int milanneza = 0;
+           int Milaneza = 0;
            int pizza = 0;
            int Especial = 0;
            int Mozo1 = 0;
@@ -35,12 +35,21 @@ namespace tp4Ejercicio10
 
                 switch (Numero)
                 {
+                    case 0: Console.WriteLine("Saliendo....");
+                            Console.ReadKey();
+                    break;
                     case: 1 Milaneza++;
 
-                        break;
+                    break;
+                    case: 2 pizza++;
+
+                    break;
+                    case: 3 Especial++;
+
+                    break;
 
 
-                    default:
+                    default: Console.WriteLine("Ingrese un numero del 1 al 3. o cero para salir.");
                     break;
                 }             
 
@@ -53,7 +62,7 @@ namespace tp4Ejercicio10
            
            
            
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
