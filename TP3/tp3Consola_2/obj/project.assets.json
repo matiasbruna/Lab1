@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/matias/.nuget/packages/": {}
+    "C:\\Users\\matbr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matias/Utn /Lab1/TP3/tp3Consola_2/tp3Consola_2.csproj",
+      "projectUniqueName": "C:\\Users\\matbr\\Documents\\GitHub\\Lab1\\TP3\\tp3Consola_2\\tp3Consola_2.csproj",
       "projectName": "tp3Consola_2",
-      "projectPath": "/home/matias/Utn /Lab1/TP3/tp3Consola_2/tp3Consola_2.csproj",
-      "packagesPath": "/home/matias/.nuget/packages/",
-      "outputPath": "/home/matias/Utn /Lab1/TP3/tp3Consola_2/obj/",
+      "projectPath": "C:\\Users\\matbr\\Documents\\GitHub\\Lab1\\TP3\\tp3Consola_2\\tp3Consola_2.csproj",
+      "packagesPath": "C:\\Users\\matbr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matbr\\Documents\\GitHub\\Lab1\\TP3\\tp3Consola_2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/matias/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\matbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
