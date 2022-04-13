@@ -17,8 +17,9 @@ namespace tp5Ejercicio1
                 Numero = int.Parse(Console.ReadLine());
 
             }
-            catch (FormatException)
-            {       
+            catch (FormatException ex)
+            {   
+                Console.WriteLine(ex.Message);    
                 Console.WriteLine("Cuidado!!!, Ingrese un Numero.");
                 
             }
