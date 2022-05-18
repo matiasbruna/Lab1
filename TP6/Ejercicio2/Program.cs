@@ -6,7 +6,22 @@ namespace Ejercicio2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            string Nombre = "Matias";
+            
+            Console.Clear();
+            Console.WriteLine("Ingrese su nombre:");
+            Nombre = Console.ReadLine();
+            
+           Console.WriteLine($" La cantidad de caracteres es: {calculo(ref Nombre)}.");
+
+
+        }
+
+        static int calculo (ref string nom)
+        {
+            int Cantidad = nom.Length;
+            return Cantidad ;
         }
     }
 }
