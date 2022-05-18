@@ -1,0 +1,15 @@
+/home/matias/Utn /Lab1/TP6/Ejercicio4/bin/Debug/net6.0/Ejercicio4
+/home/matias/Utn /Lab1/TP6/Ejercicio4/bin/Debug/net6.0/Ejercicio4.deps.json
+/home/matias/Utn /Lab1/TP6/Ejercicio4/bin/Debug/net6.0/Ejercicio4.runtimeconfig.json
+/home/matias/Utn /Lab1/TP6/Ejercicio4/bin/Debug/net6.0/Ejercicio4.dll
+/home/matias/Utn /Lab1/TP6/Ejercicio4/bin/Debug/net6.0/Ejercicio4.pdb
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/Ejercicio4.csproj.AssemblyReference.cache
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/Ejercicio4.AssemblyInfoInputs.cache
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/Ejercicio4.AssemblyInfo.cs
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/Ejercicio4.csproj.CoreCompileInputs.cache
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/Ejercicio4.dll
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/refint/Ejercicio4.dll
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/Ejercicio4.pdb
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/Ejercicio4.genruntimeconfig.cache
+/home/matias/Utn /Lab1/TP6/Ejercicio4/obj/Debug/net6.0/ref/Ejercicio4.dll
