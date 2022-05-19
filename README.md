@@ -6,7 +6,7 @@ Las soluciones están divididas  por carpetas dentro del mismo Repositorio.
 
 Cada carpeta tiene el nombre del Trabajo Practico.
 
-Todas las soluciones están realizadas con la herramienta dotnet, descargada de la pagina oficial de Microsoft. con la plantilla de consola. que utiliza el    Framework net6.0, como IDE uso el vsCode  junto con la herramienta de dotnet me permite crear proyectos de igual manera que en Visual Estudio,
+Todas las soluciones están realizadas con la herramienta dotnet, descargada de la pagina oficial de Microsoft.com la plantilla de consola. que utiliza el    Framework net6.0, como IDE uso el vsCode  junto con la herramienta de dotnet me permite crear proyectos de igual manera que en Visual Estudio,
    el motivo de que uso estas herramientas es porque el Sistema Operativo que estoy usando es una distribución de Linux llamada 
    Lubuntu. 
   
