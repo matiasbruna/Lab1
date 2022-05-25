@@ -1,0 +1,15 @@
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/bin/Debug/net6.0/Ejercicio3a
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/bin/Debug/net6.0/Ejercicio3a.deps.json
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/bin/Debug/net6.0/Ejercicio3a.runtimeconfig.json
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/bin/Debug/net6.0/Ejercicio3a.dll
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/bin/Debug/net6.0/Ejercicio3a.pdb
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/Ejercicio3a.csproj.AssemblyReference.cache
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/Ejercicio3a.GeneratedMSBuildEditorConfig.editorconfig
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/Ejercicio3a.AssemblyInfoInputs.cache
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/Ejercicio3a.AssemblyInfo.cs
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/Ejercicio3a.csproj.CoreCompileInputs.cache
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/Ejercicio3a.dll
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/refint/Ejercicio3a.dll
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/Ejercicio3a.pdb
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/Ejercicio3a.genruntimeconfig.cache
+/home/matias/Utn /Lab1/TP7/Ejercicio3a/obj/Debug/net6.0/ref/Ejercicio3a.dll
