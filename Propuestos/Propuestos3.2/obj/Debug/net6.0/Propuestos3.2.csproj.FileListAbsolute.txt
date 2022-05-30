@@ -1,0 +1,15 @@
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/bin/Debug/net6.0/Propuestos3.2
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/bin/Debug/net6.0/Propuestos3.2.deps.json
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/bin/Debug/net6.0/Propuestos3.2.runtimeconfig.json
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/bin/Debug/net6.0/Propuestos3.2.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/bin/Debug/net6.0/Propuestos3.2.pdb
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/Propuestos3.2.csproj.AssemblyReference.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/Propuestos3.2.GeneratedMSBuildEditorConfig.editorconfig
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/Propuestos3.2.AssemblyInfoInputs.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/Propuestos3.2.AssemblyInfo.cs
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/Propuestos3.2.csproj.CoreCompileInputs.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/Propuestos3.2.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/refint/Propuestos3.2.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/Propuestos3.2.pdb
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/Propuestos3.2.genruntimeconfig.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos3.2/obj/Debug/net6.0/ref/Propuestos3.2.dll
