@@ -24,7 +24,7 @@ namespace Propuestos2_2
 
         }
         ////falta meter todos los calculos en la clase Grupos para calcular segun pide el ejercicio. 
-        //y tambien el resumen final.. queda bastante trabajo.
+        //y tambien el resumen final.. queda bastante trabajo...
 
         static void  CargarDatos(Grupos G)    // el objeto por parametro.
         {
