@@ -4,25 +4,25 @@
     {
         static void Main(string[] args)
         {
-            
+            Console.Clear();
             Console.WriteLine("Escribe tu Apellido y Nombre");
-            var _nombre = Console.ReadLine();
+            string nombre = Console.ReadLine();
             
             Console.WriteLine("Escribe tu Lejago de Estudiante");
-            var _domicilio = Console.ReadLine();
+            int legajo = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Año de Ingreso");
-            var _telefono = Console.ReadLine();
+            string Año = Console.ReadLine();
 
             Console.WriteLine("Carrera que estudia");
-            var _email = Console.ReadLine();
+            string Carrera= Console.ReadLine();
 
             Console.Clear();
 
-            Console.WriteLine(_nombre);
-            Console.WriteLine(_domicilio);
-            Console.WriteLine(_telefono);
-            Console.WriteLine(_email);
+            Console.WriteLine(nombre);
+            Console.WriteLine(legajo);
+            Console.WriteLine(Año);
+            Console.WriteLine(Carrera);
         }
     }
 }
