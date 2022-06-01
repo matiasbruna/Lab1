@@ -4,29 +4,29 @@
     {
         static void Main(string[] args)
         {
-            
+            Console.Clear();
             Console.WriteLine("Escribe tu Apellido y Nombre");
-            var _nombre = Console.ReadLine();
+            string nombre = Console.ReadLine();
             
             Console.WriteLine("Escribe tu Domicilio");
-            var _domicilio = Console.ReadLine();
+            string domicilio = Console.ReadLine();
 
             Console.WriteLine("Escribe tu Telefono");
-            var _telefono = Console.ReadLine();
+            int telefono = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Escribe tu Correo Electronico");
-            var _email = Console.ReadLine();
+            string email = Console.ReadLine();
 
             Console.WriteLine("Escribe tu Ciudad");
-            var _ciudad = Console.ReadLine();
+            string ciudad = Console.ReadLine();
 
             Console.Clear();
 
-            Console.WriteLine(_nombre);
-            Console.WriteLine(_domicilio);
-            Console.WriteLine(_telefono);
-            Console.WriteLine(_email);
-            Console.WriteLine(_ciudad);
+            Console.WriteLine(nombre);
+            Console.WriteLine(domicilio);
+            Console.WriteLine(telefono);
+            Console.WriteLine(email);
+            Console.WriteLine(ciudad);
         }
     }
 }
