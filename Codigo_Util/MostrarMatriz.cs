@@ -1,4 +1,4 @@
-    //muestra los valores por consola como una matriz consvencional.
+    //muestra los valores por consola como una matriz convencional.
     
     static void MostrarMatriz(double[,] M)  
         {
