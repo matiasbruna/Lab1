@@ -11,20 +11,48 @@ namespace Propuestos4_1
            
             double [,] Matriz = new double [Fila, Columna];
             double [] SumaFilas;
+            double [] SumaColumnas;
             Console.Clear();
 
             Matriz = CargarMatriz(Fila, Columna);
 
             MostrarMatriz(Matriz);
+            Console.ReadKey();
 
             SumaFilas = CargarSumaFilas(Matriz);
+            SumaColumnas = CargarSumaColumnas(Matriz);
 
-            foreach (var item in SumaFilas)
+            MostrarVectorFilaColumna(SumaFilas, SumaColumnas);
+
+            Array.Sort(SumaFilas);
+            Array.Sort(SumaColumnas);
+            
+            Console.ReadKey();
+
+            MostrarVectorFilaColumna(SumaFilas, SumaColumnas);
+            
+
+            SumaFilaColumna(Matriz);
+        }
+        static void MostrarVectorFilaColumna(double[] F, double[] C)
+        {
+            Console.Clear();
+            Console.WriteLine("--------------------------");
+             Console.WriteLine("Suma de cada Fila:");
+            foreach (var item in F)
             {
                 Console.Write($"{item}, ");
             }
+            Console.Write("\n");
+            Console.WriteLine("Suma de cada Columna:");
+            foreach (var item in C)
+            {
+                Console.Write($"{item}, ");
+            }
+            Console.Write($"\n");
+            System.Console.WriteLine("-----------------------------------");
 
-            SumaFilaColumna(Matriz);
+
         }
         static double[] CargarSumaFilas(double [,] M)
         {
@@ -42,6 +70,23 @@ namespace Propuestos4_1
                 Suma = 0;
             }
             return SumaFilas;
+        }
+        static double[] CargarSumaColumnas(double [,] M)
+        {
+            double [] SumaColumnas = new double[M.GetLength(1)];
+            double Suma = 0;
+
+            for (int i = 0; i < M.GetLength(0); i++)
+            {
+                for (int j = 0; j < M.GetLength(1); j++)
+                {
+                    Suma += M[j,i];
+                }
+
+                SumaColumnas[i]= Suma;
+                Suma = 0;
+            }
+            return SumaColumnas;
         }
         static double[,] CargarMatriz(int F, int C)
         {
