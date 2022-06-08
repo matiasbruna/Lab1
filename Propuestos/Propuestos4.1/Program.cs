@@ -10,14 +10,38 @@ namespace Propuestos4_1
             int Columna = 3;
            
             double [,] Matriz = new double [Fila, Columna];
-
+            double [] SumaFilas;
             Console.Clear();
 
             Matriz = CargarMatriz(Fila, Columna);
 
             MostrarMatriz(Matriz);
 
+            SumaFilas = CargarSumaFilas(Matriz);
+
+            foreach (var item in SumaFilas)
+            {
+                Console.Write($"{item}, ");
+            }
+
             SumaFilaColumna(Matriz);
+        }
+        static double[] CargarSumaFilas(double [,] M)
+        {
+            double [] SumaFilas = new double[M.GetLength(0)];
+            double Suma = 0;
+
+            for (int i = 0; i < M.GetLength(0); i++)
+            {
+                for (int j = 0; j < M.GetLength(1); j++)
+                {
+                    Suma += M[i,j];
+                }
+
+                SumaFilas[i]= Suma;
+                Suma = 0;
+            }
+            return SumaFilas;
         }
         static double[,] CargarMatriz(int F, int C)
         {
