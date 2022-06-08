@@ -16,28 +16,27 @@ namespace Propuestos4_1
 
             Matriz = CargarMatriz(Fila, Columna);
 
-            MostrarMatriz(Matriz);
-            Console.ReadKey();
+            Console.Clear();
 
             SumaFilas = CargarSumaFilas(Matriz);
             SumaColumnas = CargarSumaColumnas(Matriz);
 
-            MostrarVectorFilaColumna(SumaFilas, SumaColumnas);
-
-            Array.Sort(SumaFilas);
-            Array.Sort(SumaColumnas);
-            
-            Console.ReadKey();
+            Console.WriteLine("Resultado:");
 
             MostrarVectorFilaColumna(SumaFilas, SumaColumnas);
-            
 
-            SumaFilaColumna(Matriz);
+            Array.Sort(SumaFilas);     //ordena el vector de las filas 
+            Array.Sort(SumaColumnas);   //ordena el vector de la columnas.
+            
+            Console.WriteLine("Resultado Ordenado:");
+
+            MostrarVectorFilaColumna(SumaFilas, SumaColumnas);
+            
         }
         static void MostrarVectorFilaColumna(double[] F, double[] C)
         {
-            Console.Clear();
-            Console.WriteLine("--------------------------");
+            
+            Console.WriteLine("------------------------------------");
              Console.WriteLine("Suma de cada Fila:");
             foreach (var item in F)
             {
@@ -102,79 +101,6 @@ namespace Propuestos4_1
             }
 
             return M; 
-        }
-        static void SumaFilaColumna (double[,]M )
-        {
-            double []Filas = new double [M.GetLength(0)];
-            double[] Columnas = new double [M.GetLength(1)];
-            
-            for (int i = 0; i < M.GetLength(0); i++)
-            {
-                for (int j = 0; j < M.GetLength(1); j++)
-                {
-                    Filas[j]= M[i,j];
-                }
-
-                MostrarSumaFilas(Filas, i);
-            }
-            for (int i = 0; i < M.GetLength(0); i++)
-            {
-                for (int j = 0; j < M.GetLength(1); j++)
-                {
-                    Columnas[j]= M[j,i];
-                }
-
-                MostrarSumaColumna(Columnas, i);
-            }
-
-
-        }
-        static void MostrarSumaFilas (double []F, int Pos)
-        {
-            double SumaFila = 0;
-           
-            for (int i = 0; i < F.Length; i++)
-            {
-                SumaFila += F[i];
-            }
-
-            System.Console.WriteLine($"La suma de la fila {Pos} es: {SumaFila}.");
-        }
-        static void MostrarSumaColumna (double []C, int Pos)
-        {
-            double SumaColumna = 0;
-
-            for (int i = 0; i < C.Length; i++)
-            {
-                SumaColumna += C[i];
-            }
-            System.Console.WriteLine($"La suma de la columna {Pos} es: {SumaColumna}.");
-        }
-        static void MostrarOrdenados(double[] F,double[] C)
-        {
-            Array.Sort(F);
-            foreach (var item in F)
-            {
-                System.Console.Write($"{item}, ");
-            }
-            Array.Sort(C);
-            foreach (var item in C)
-            {
-                System.Console.Write($"{item}, ");
-            }
-
-        }
-        static void MostrarMatriz(double[,] M)
-        {
-            for (int i = 0; i < M.GetLength(0); i++)
-            {
-                for (int j = 0; j < M.GetLength(0); j++)
-                {
-                    Console.Write($"{M[i,j]} ");
-                }
-                Console.Write("\n");
-            }
-
         }
 
     }
