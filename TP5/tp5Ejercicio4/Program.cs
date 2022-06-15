@@ -36,7 +36,7 @@ namespace tp5Ejercicio4
                Console.WriteLine(ex.Message);
                 Console.WriteLine("Cuidado!!!, Formato Incorrecto");
            }
-                      catch (Exception ex)
+             catch (Exception ex)
            {
                Console.WriteLine(ex.Message);
                 Console.WriteLine("Mensaje de exepcion.");

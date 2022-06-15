@@ -1,0 +1,11 @@
+comentar varias lineas en vsCode  
+
+shif+crl+A
+
+pasar de la terminal codigo o al reves
+
+crl+J
+
+multicursor 
+
+alt + clickizq
