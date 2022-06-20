@@ -1,0 +1,15 @@
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/bin/Debug/net6.0/Propuestos4.7
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/bin/Debug/net6.0/Propuestos4.7.deps.json
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/bin/Debug/net6.0/Propuestos4.7.runtimeconfig.json
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/bin/Debug/net6.0/Propuestos4.7.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/bin/Debug/net6.0/Propuestos4.7.pdb
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/Propuestos4.7.csproj.AssemblyReference.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/Propuestos4.7.GeneratedMSBuildEditorConfig.editorconfig
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/Propuestos4.7.AssemblyInfoInputs.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/Propuestos4.7.AssemblyInfo.cs
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/Propuestos4.7.csproj.CoreCompileInputs.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/Propuestos4.7.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/refint/Propuestos4.7.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/Propuestos4.7.pdb
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/Propuestos4.7.genruntimeconfig.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos4.7/obj/Debug/net6.0/ref/Propuestos4.7.dll
