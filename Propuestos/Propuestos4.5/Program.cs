@@ -14,6 +14,7 @@ namespace Propuestos4_5
             MostrarMatriz(Nombres);
 
             System.Console.WriteLine("");
+            System.Console.WriteLine("Matriz Traspuesta:");
 
             string[,] Tras = Traspuesta(Nombres);
 
@@ -23,14 +24,16 @@ namespace Propuestos4_5
 
         static string [,] Traspuesta (string[,]M)
         {
+            
             string[,] MatrizT = new string [M.GetLength(1),M.GetLength(0)];
-            for (int i = 0; i < M.GetLength(0); i++)
+            for (int i = 0; i < M.GetLength(1); i++)
             {
+
                 for (int j = 0; j < M.GetLength(0); j++)
                 {
-                    MatrizT[j,i]= M[i,j]; 
+                    MatrizT[i,j] = M[j,i];  
+
                 }
-               
             }
             return MatrizT;
         }
@@ -49,13 +52,15 @@ namespace Propuestos4_5
         static string[,] CargarMatrizDinamica()     
         {   
             Console.Clear();
-    
+           
             System.Console.WriteLine("Construir el tamaño de una Matriz:");
             System.Console.Write("Filas: ");
-            int F = int.Parse(Console.ReadLine());
+            int F = ValidaNumero();
             System.Console.Write("\n");    
             System.Console.Write("Columnas: ");
-            int C = int.Parse(Console.ReadLine());
+            int C = ValidaNumero();
+        
+  
             Console.Clear();
             
             string[,] M = new string[F,C];
@@ -70,6 +75,38 @@ namespace Propuestos4_5
             }
         
             return M; 
+        }
+        static byte ValidaNumero()     
+        {
+            
+            Boolean Condicion = true;
+            byte Num = 0;         
+            
+            while (Condicion)
+            {
+                try
+                {
+                
+                    Num = byte.Parse(Console.ReadLine());
+                    if(Num > 0)
+                    {
+                        Condicion = false;
+                    }
+                    else
+                    {
+                        System.Console.WriteLine("La Matriz No puede tener filas y colunas en Cero:");
+                    }
+                    
+               
+                }
+                catch
+                {
+                    System.Console.WriteLine("Valor incorrecto!!, Ingrese un numero Positivo, distinto de cero:");
+                }
+                
+            }    
+                    
+            return Num;
         }
 
         static string ValidaValor(int i, int j)     
