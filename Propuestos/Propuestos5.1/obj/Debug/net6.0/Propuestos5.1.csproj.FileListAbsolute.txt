@@ -1,0 +1,15 @@
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/bin/Debug/net6.0/Propuestos5.1
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/bin/Debug/net6.0/Propuestos5.1.deps.json
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/bin/Debug/net6.0/Propuestos5.1.runtimeconfig.json
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/bin/Debug/net6.0/Propuestos5.1.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/bin/Debug/net6.0/Propuestos5.1.pdb
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/Propuestos5.1.csproj.AssemblyReference.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/Propuestos5.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/Propuestos5.1.AssemblyInfoInputs.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/Propuestos5.1.AssemblyInfo.cs
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/Propuestos5.1.csproj.CoreCompileInputs.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/Propuestos5.1.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/refint/Propuestos5.1.dll
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/Propuestos5.1.pdb
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/Propuestos5.1.genruntimeconfig.cache
+/home/matias/Utn /Lab1/Propuestos/Propuestos5.1/obj/Debug/net6.0/ref/Propuestos5.1.dll
