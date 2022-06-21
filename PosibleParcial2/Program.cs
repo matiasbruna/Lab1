@@ -42,7 +42,7 @@ namespace Posible_parcial2
                 }
             }
 
-            double Promedio = Math.Round(Suma/Cant);
+            double Promedio = Math.Round(Suma/Cant,2);
             System.Console.WriteLine($"La suma de todos los elementos menos la Ultima columna es: {Suma}.");
             System.Console.WriteLine($"La cantodad de elemetos sumados es: {Cant}.");
             System.Console.WriteLine($"El Promedio de la Matriz sin la ultima columna es: {Promedio}.");
