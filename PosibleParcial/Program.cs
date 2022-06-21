@@ -17,9 +17,8 @@ namespace Posible_parcial
             Console.Write("Vector ordenado: ");
             MostrarVector(V);
             MostrarPar(V);
-            MosMayMenorPosicion(Mariz);
+            MostrarMayorMenorYPosicion(Mariz);
             Promedio(Mariz);
-
 
         }
         static void MostrarVector(int[]V)
@@ -58,7 +57,7 @@ namespace Posible_parcial
             }
             System.Console.WriteLine($"Cantidad de numeros pares : {Par}.");
         }
-        static void MosMayMenorPosicion (int[,]M)
+        static void MostrarMayorMenorYPosicion (int[,]M)
         {
             int Mayor = M[0,0];
             int Menor = M[0,0];
@@ -107,7 +106,7 @@ namespace Posible_parcial
            
             System.Console.WriteLine("Construir el tamaño de una Matriz:");
             System.Console.Write("Filas: ");
-            int F = ValidaNumero();
+            int F = ValidaNumero();             //valido que si o si ingrese numero distinto de cero y positivo.
             System.Console.Write("\n");    
             System.Console.Write("Columnas: ");
             int C = ValidaNumero();
@@ -122,7 +121,7 @@ namespace Posible_parcial
             {
                 for (int j = 0; j < M.GetLength(1); j++)
                 {                   
-                    M[i,j] = ValidaValor();
+                    M[i,j] = ValidaValor();   //Valido que sea un numero y no una letra o un valor vacio.
                 }
             }
         
@@ -155,7 +154,6 @@ namespace Posible_parcial
             }                
             return Num;
         }
-        
         static int ValidaValor()     
         {
             
