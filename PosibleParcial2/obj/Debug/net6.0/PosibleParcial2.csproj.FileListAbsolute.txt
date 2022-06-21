@@ -1,0 +1,15 @@
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\bin\Debug\net6.0\PosibleParcial2.exe
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\bin\Debug\net6.0\PosibleParcial2.deps.json
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\bin\Debug\net6.0\PosibleParcial2.runtimeconfig.json
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\bin\Debug\net6.0\PosibleParcial2.dll
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\bin\Debug\net6.0\PosibleParcial2.pdb
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\PosibleParcial2.csproj.AssemblyReference.cache
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\PosibleParcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\PosibleParcial2.AssemblyInfoInputs.cache
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\PosibleParcial2.AssemblyInfo.cs
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\PosibleParcial2.csproj.CoreCompileInputs.cache
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\PosibleParcial2.dll
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\refint\PosibleParcial2.dll
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\PosibleParcial2.pdb
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\PosibleParcial2.genruntimeconfig.cache
+C:\Users\matbr\Documents\GitHub\Lab1\PosibleParcial2\obj\Debug\net6.0\ref\PosibleParcial2.dll
