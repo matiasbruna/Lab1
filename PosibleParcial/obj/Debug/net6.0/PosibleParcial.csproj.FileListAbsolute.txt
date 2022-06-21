@@ -1,0 +1,15 @@
+/home/matias/Utn /Lab1/PosibleParcial/bin/Debug/net6.0/PosibleParcial
+/home/matias/Utn /Lab1/PosibleParcial/bin/Debug/net6.0/PosibleParcial.deps.json
+/home/matias/Utn /Lab1/PosibleParcial/bin/Debug/net6.0/PosibleParcial.runtimeconfig.json
+/home/matias/Utn /Lab1/PosibleParcial/bin/Debug/net6.0/PosibleParcial.dll
+/home/matias/Utn /Lab1/PosibleParcial/bin/Debug/net6.0/PosibleParcial.pdb
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/PosibleParcial.csproj.AssemblyReference.cache
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/PosibleParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/PosibleParcial.AssemblyInfoInputs.cache
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/PosibleParcial.AssemblyInfo.cs
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/PosibleParcial.csproj.CoreCompileInputs.cache
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/PosibleParcial.dll
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/refint/PosibleParcial.dll
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/PosibleParcial.pdb
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/PosibleParcial.genruntimeconfig.cache
+/home/matias/Utn /Lab1/PosibleParcial/obj/Debug/net6.0/ref/PosibleParcial.dll
